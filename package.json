@@ -1,0 +1,16 @@
+{
+  "name": "google-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "cyrun": "cypress run",
+    "cyopen": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
